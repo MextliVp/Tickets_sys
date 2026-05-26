@@ -15,4 +15,13 @@ LENGUAJE :
 BASE DE DATOS:
 FRAMEWORK:
 IDE:
-SYS:
+CVS:
+## ARQUITECTURA
+la arquitectura del proyecto sera:
+*** 
+##METODOLOGIA 
+La metodologia para el desarrollo de la aplicacion sera SCRUM, en 4 sprints 
+- [] SPRINT 1
+- [] SPRINT 2
+- [] SPRINT 3
+- [] SPRINT 4
